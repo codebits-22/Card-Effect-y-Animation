@@ -2,7 +2,7 @@ cat > README.md << 'EOF'
 # Card-Effect-And-Animation
 
 ```bash
-user@codebits:~$ ./button-effect --run
+user@codebits:~$ ./Card-Effect-y-Animation --run
 > Card Efecto y Animación con HTML y CSS puro
 ```
 # Stack
